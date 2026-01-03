@@ -1,6 +1,4 @@
-# projectkelompok3-dockerdatabasecontainer
-
-Project Kelompok 3-Database Service Menggunakan Docker
+# Project Kelompok 3-Database Service Menggunakan Docker
 
 A. Anggota Kelompok
 - Fitri Rahmadiani (062430701469)
