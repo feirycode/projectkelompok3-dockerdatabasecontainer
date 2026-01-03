@@ -33,9 +33,7 @@ D. Cara Menjalankan
 
 E. Struktur File
 mysql-docker/
-│
-├── docker-compose.yml
-├── Dockerfile
-├── README.md
-└── video-demo
+- docker-compose.yml
+- Dockerfile
+- README.md
     
